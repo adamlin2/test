@@ -1,0 +1,10 @@
+index=vita_cn_sess
+
+symantec:ep:security:syslog
+字段：
+user 用户
+Intrusion_URL       ——访问URL
+Host_Name ——主机名
+Event_Description ——安全事件
+category ——事件说明
+Application_Name   ——恶意文件
